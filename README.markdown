@@ -1,10 +1,10 @@
-## Noginn_Service_Boss ##
-Noginn_Service_Boss is a Zend Framework component that wraps the Yahoo BOSS search API (http://developer.yahoo.com/search/boss/).
+## Noginn_Service_YahooBoss ##
+Noginn_Service_YahooBoss is a Zend Framework component that wraps the Yahoo BOSS search API (http://developer.yahoo.com/search/boss/).
 
 ## How to ##
 ### Basic usage ###
 
-    $boss = new Noginn_Service_Boss('APPID');
+    $boss = new Noginn_Service_YahooBoss('APPID');
     $result = $boss->webSearch('query string', array(
         'count' => 25,
         'start' => 0
