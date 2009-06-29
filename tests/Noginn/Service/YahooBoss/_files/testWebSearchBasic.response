@@ -1,0 +1,102 @@
+HTTP/1.1 200 OK
+Date: Fri, 26 Jun 2009 23:27:46 GMT
+Server: Apache/2.0.52
+Content-length: 0
+Connection: close
+Content-type: text/xml; charset=utf-8
+
+<?xml version="1.0" encoding="UTF-8"?>
+<ysearchresponse xmlns="http://www.inktomi.com/" responsecode="200">
+  <nextpage><![CDATA[/ysearch/web/v1/zend%20framework?format=xml&count=10&appid=BEDVfQXIkY0JPLmKM6BAXwfgFt1.EEc-&start=10]]></nextpage>
+  <resultset_web count="10" start="0" totalhits="417996" deephits="10500000">
+    <result>
+      <abstract><![CDATA[Data-centric Adobe Flash Builder development with the <b>Zend</b> <b>Framework</b> <b>...</b> Jeroen Keppens on: Creating a modular application with <b>Zend</b> <b>Framework</b> <b>...</b>]]></abstract>
+      <clickurl>http://lrd.yahooapis.com/_ylc=X3oDMTQ4dGRvaGxvBF9TAzIwMjMxNTI3MDIEYXBwaWQDQkVEVmZRWElrWTBKUExtS002QkFYd2ZnRnQxLkVFYy0EY2xpZW50A2Jvc3MEc2VydmljZQNCT1NTBHNsawN0aXRsZQRzcmNwdmlkA0RIX2F0V0tJY3JvQXE3cEdPQlZ5R0FFWVZnNFdBMHBGUmlvQUNRU0M-/SIG=10vtopo9u/**http%3A//framework.zend.com/</clickurl>
+      <date>2009/06/18</date>
+      <dispurl><![CDATA[<b>framework.zend.com</b>]]></dispurl>
+
+      <size>14409</size>
+      <title><![CDATA[<b>Zend</b> <b>Framework</b>]]></title>
+      <url>http://framework.zend.com/</url></result>
+    <result>
+      <abstract><![CDATA[We package several <b>Zend</b> <b>Framework</b> downloads for your convenience, many of which <b>...</b> As a <b>Zend</b> <b>Framework</b> technology partner, Google provides PHP 5 client libraries <b>...</b>]]></abstract>
+      <clickurl>http://lrd.yahooapis.com/_ylc=X3oDMTQ4dGRvaGxvBF9TAzIwMjMxNTI3MDIEYXBwaWQDQkVEVmZRWElrWTBKUExtS002QkFYd2ZnRnQxLkVFYy0EY2xpZW50A2Jvc3MEc2VydmljZQNCT1NTBHNsawN0aXRsZQRzcmNwdmlkA0RIX2F0V0tJY3JvQXE3cEdPQlZ5R0FFWVZnNFdBMHBGUmlvQUNRU0M-/SIG=117sjtk3b/**http%3A//framework.zend.com/download</clickurl>
+      <date>2009/06/18</date>
+
+      <dispurl><![CDATA[<b>framework.zend.com</b>/download]]></dispurl>
+      <size>13328</size>
+      <title><![CDATA[<b>Zend</b> <b>Framework</b>: Downloads: Downloads]]></title>
+      <url>http://framework.zend.com/download</url></result>
+    <result>
+      <abstract><![CDATA[<b>Zend</b> <b>Framework</b> provides individual components for many other common requirements <b>...</b> <b>Zend</b> <b>Framework</b> also seeks to promote web development best practices in the PHP <b>...</b>]]></abstract>
+      <clickurl>http://lrd.yahooapis.com/_ylc=X3oDMTQ4dGRvaGxvBF9TAzIwMjMxNTI3MDIEYXBwaWQDQkVEVmZRWElrWTBKUExtS002QkFYd2ZnRnQxLkVFYy0EY2xpZW50A2Jvc3MEc2VydmljZQNCT1NTBHNsawN0aXRsZQRzcmNwdmlkA0RIX2F0V0tJY3JvQXE3cEdPQlZ5R0FFWVZnNFdBMHBGUmlvQUNRU0M-/SIG=11gpl4hvg/**http%3A//en.wikipedia.org/wiki/Zend_Framework</clickurl>
+
+      <date>2009/06/10</date>
+      <dispurl><![CDATA[<b>en.wikipedia.org</b>/wiki/<wbr><b>Zend</b>_<b>Framework</b>]]></dispurl>
+      <size>66257</size>
+      <title><![CDATA[<b>Zend</b> <b>Framework</b> - Wikipedia, the free encyclopedia]]></title>
+      <url>http://en.wikipedia.org/wiki/Zend_Framework</url></result>
+    <result>
+      <abstract><![CDATA[<b>Zend</b> provides PHP programming platform, PHP development <b>...</b> <b>Zend</b> Server Community Edition. PHP &amp; <b>Zend</b> Engine. <b>Zend</b> <b>Framework</b>. Eclipse PHP Development Tools <b>...</b>]]></abstract>
+
+      <clickurl>http://lrd.yahooapis.com/_ylc=X3oDMTQ4dGRvaGxvBF9TAzIwMjMxNTI3MDIEYXBwaWQDQkVEVmZRWElrWTBKUExtS002QkFYd2ZnRnQxLkVFYy0EY2xpZW50A2Jvc3MEc2VydmljZQNCT1NTBHNsawN0aXRsZQRzcmNwdmlkA0RIX2F0V0tJY3JvQXE3cEdPQlZ5R0FFWVZnNFdBMHBGUmlvQUNRU0M-/SIG=10p6612a2/**http%3A//www.zend.com/</clickurl>
+      <date>2009/06/25</date>
+      <dispurl><![CDATA[www.<b>zend.com</b>]]></dispurl>
+      <size>19301</size>
+      <title><![CDATA[<b>Zend</b>]]></title>
+      <url>http://www.zend.com/</url></result>
+    <result>
+
+      <abstract><![CDATA[A key driver for <b>Zend's</b> success is a vibrant and engaged open-source community built around PHP, including <b>frameworks</b>, engines, and tools.]]></abstract>
+      <clickurl>http://lrd.yahooapis.com/_ylc=X3oDMTQ4dGRvaGxvBF9TAzIwMjMxNTI3MDIEYXBwaWQDQkVEVmZRWElrWTBKUExtS002QkFYd2ZnRnQxLkVFYy0EY2xpZW50A2Jvc3MEc2VydmljZQNCT1NTBHNsawN0aXRsZQRzcmNwdmlkA0RIX2F0V0tJY3JvQXE3cEdPQlZ5R0FFWVZnNFdBMHBGUmlvQUNRU0M-/SIG=11tcf3jk2/**http%3A//www.zend.com/collaboration/framework-overview.php</clickurl>
+      <date>2009/06/17</date>
+      <dispurl><![CDATA[www.<b>zend.com</b>/collaboration/<wbr><b>framework</b>-overview.php]]></dispurl>
+      <size>34058</size>
+      <title><![CDATA[<b>Zend</b> and the PHP community - <b>Zend</b>.com]]></title>
+      <url>http://www.zend.com/collaboration/framework-overview.php</url></result>
+
+    <result>
+      <abstract><![CDATA[<b>Zend</b> <b>Framework</b> Dojo Form decorators example and usage. <b>Zend</b> <b>Framework</b> Tutorial- simple signup and login <b>...</b> <b>Zend</b> <b>Framework</b> and dojo- Auto Complete Example <b>...</b>]]></abstract>
+      <clickurl>http://lrd.yahooapis.com/_ylc=X3oDMTQ4dGRvaGxvBF9TAzIwMjMxNTI3MDIEYXBwaWQDQkVEVmZRWElrWTBKUExtS002QkFYd2ZnRnQxLkVFYy0EY2xpZW50A2Jvc3MEc2VydmljZQNCT1NTBHNsawN0aXRsZQRzcmNwdmlkA0RIX2F0V0tJY3JvQXE3cEdPQlZ5R0FFWVZnNFdBMHBGUmlvQUNRU0M-/SIG=1131sk7s1/**http%3A//zendguru.wordpress.com/</clickurl>
+      <date>2009/06/13</date>
+      <dispurl><![CDATA[<b>zendguru.wordpress.com</b>]]></dispurl>
+      <size>72291</size>
+      <title><![CDATA[<b>Zend</b> <b>Framework</b>]]></title>
+
+      <url>http://zendguru.wordpress.com/</url></result>
+    <result>
+      <abstract><![CDATA[The <b>Zend</b> <b>Framework</b> module is a Drupal API module that facilitates the <b>...</b> If the <b>Zend</b> <b>Framework</b> is not installed, download it (new BSD-license) and <b>...</b>]]></abstract>
+      <clickurl>http://lrd.yahooapis.com/_ylc=X3oDMTQ4dGRvaGxvBF9TAzIwMjMxNTI3MDIEYXBwaWQDQkVEVmZRWElrWTBKUExtS002QkFYd2ZnRnQxLkVFYy0EY2xpZW50A2Jvc3MEc2VydmljZQNCT1NTBHNsawN0aXRsZQRzcmNwdmlkA0RIX2F0V0tJY3JvQXE3cEdPQlZ5R0FFWVZnNFdBMHBGUmlvQUNRU0M-/SIG=113cunjfn/**http%3A//drupal.org/project/zend</clickurl>
+      <date>2009/06/20</date>
+      <dispurl><![CDATA[<b>drupal.org</b>/project/<b>zend</b>]]></dispurl>
+      <size>23556</size>
+
+      <title><![CDATA[<b>Zend</b> <b>Framework</b> | drupal.org]]></title>
+      <url>http://drupal.org/project/zend</url></result>
+    <result>
+      <abstract><![CDATA[Free <b>Zend</b> <b>Framework</b> screencasts. Video tutorials to get you up to speed with different parts of the <b>Zend</b> <b>Framework</b> and enterprise PHP development.]]></abstract>
+      <clickurl>http://lrd.yahooapis.com/_ylc=X3oDMTQ4dGRvaGxvBF9TAzIwMjMxNTI3MDIEYXBwaWQDQkVEVmZRWElrWTBKUExtS002QkFYd2ZnRnQxLkVFYy0EY2xpZW50A2Jvc3MEc2VydmljZQNCT1NTBHNsawN0aXRsZQRzcmNwdmlkA0RIX2F0V0tJY3JvQXE3cEdPQlZ5R0FFWVZnNFdBMHBGUmlvQUNRU0M-/SIG=10u3m137e/**http%3A//www.zendcasts.com/</clickurl>
+      <date>2009/06/23</date>
+      <dispurl><![CDATA[www.<b>zendcasts.com</b>]]></dispurl>
+
+      <size>28484</size>
+      <title><![CDATA[Free <b>Zend</b> <b>Framework</b> Screencasts - Zendcasts]]></title>
+      <url>http://www.zendcasts.com/</url></result>
+    <result>
+      <abstract><![CDATA[Hosting companies supporting <b>Zend</b> <b>Framework</b> (0) Consultants (0) Commercial tools for <b>Zend</b> <b>Framework</b> (0) Developers (companies) using <b>Zend</b> <b>Framework</b> (1) <b>...</b>]]></abstract>
+      <clickurl>http://lrd.yahooapis.com/_ylc=X3oDMTQ4dGRvaGxvBF9TAzIwMjMxNTI3MDIEYXBwaWQDQkVEVmZRWElrWTBKUExtS002QkFYd2ZnRnQxLkVFYy0EY2xpZW50A2Jvc3MEc2VydmljZQNCT1NTBHNsawN0aXRsZQRzcmNwdmlkA0RIX2F0V0tJY3JvQXE3cEdPQlZ5R0FFWVZnNFdBMHBGUmlvQUNRU0M-/SIG=10s9aq5dv/**http%3A//www.zflinks.com/</clickurl>
+      <date>2009/06/15</date>
+
+      <dispurl><![CDATA[www.<b>zflinks.com</b>]]></dispurl>
+      <size>19286</size>
+      <title><![CDATA[<b>Zend</b> <b>Framework</b> Links <b>Zend</b> <b>Framework</b> Links]]></title>
+      <url>http://www.zflinks.com/</url></result>
+    <result>
+      <abstract><![CDATA[For PHP coders, <b>Zend</b> <b>Framework</b> offers that same promise without the need to move <b>...</b> Steven was introduced to the <b>Zend</b> <b>Framework</b> by Nick Lo and quickly adopted it as <b>...</b>]]></abstract>
+      <clickurl>http://lrd.yahooapis.com/_ylc=X3oDMTQ4dGRvaGxvBF9TAzIwMjMxNTI3MDIEYXBwaWQDQkVEVmZRWElrWTBKUExtS002QkFYd2ZnRnQxLkVFYy0EY2xpZW50A2Jvc3MEc2VydmljZQNCT1NTBHNsawN0aXRsZQRzcmNwdmlkA0RIX2F0V0tJY3JvQXE3cEdPQlZ5R0FFWVZnNFdBMHBGUmlvQUNRU0M-/SIG=112coa1kc/**http%3A//www.manning.com/allen/</clickurl>
+
+      <date>2009/02/10</date>
+      <dispurl><![CDATA[www.<b>manning.com</b>/allen]]></dispurl>
+      <size>13096</size>
+      <title><![CDATA[Manning: <b>Zend</b> <b>Framework</b> in Action]]></title>
+      <url>http://www.manning.com/allen/</url></result></resultset_web></ysearchresponse>

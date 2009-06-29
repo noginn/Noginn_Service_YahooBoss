@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Fri, 26 Jun 2009 23:27:46 GMT
+Server: Apache/2.0.52
+Content-length: 0
+Connection: close
+Content-type: text/xml; charset=utf-8
+
+<?xml version="1.0" encoding="UTF-8"?>
+<ysearchresponse xmlns="http://www.inktomi.com/" responsecode="200">
+  <resultset_spell count="1" start="0" totalhits="1" deephits="1">
+    <result>
+      <suggestion>spelling</suggestion></result></resultset_spell></ysearchresponse>
