@@ -14,7 +14,7 @@ class SearchController extends Zend_Controller_Action
             }
             
             // Perform the search!
-            $boss = new Noginn_Service_YahooBoss('BEDVfQXIkY0JPLmKM6BAXwfgFt1.EEc-');
+            $boss = new Noginn_Service_YahooBoss('');
             $webResults = $boss->webSearch($query, array(
                 'count' => $count,
                 'start' => $count * ($page - 1),
